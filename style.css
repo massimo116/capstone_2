@@ -1,0 +1,65 @@
+.custom-bg {
+  background-color: #f2f2f2;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.img-pers {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+#heroes {
+  background-image: url(./immagini/blue-background.jpeg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  margin: auto;
+  color: whitesmoke;
+}
+
+.content {
+  float: left;
+  width: 60%;
+  padding-right: 50px;
+}
+
+.content p {
+  text-align: justify;
+}
+
+.image {
+  float: right;
+  width: 40%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.image img {
+  width: 100%;
+  display: block;
+}
+
+#about-me {
+  margin-bottom: 40px;
+}
+
+#about-me p {
+  text-align: justify;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
